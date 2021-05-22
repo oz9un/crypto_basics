@@ -15,6 +15,8 @@ if len(bits6_rep[len(bits6_rep)-1]) != 6:
 
 encoded = ''.join([base64_alphabet[int(bits,2)] for bits in bits6_rep])
 
+print(encoded)
+
 ''' Easy way, with imports.
 
 import base64
