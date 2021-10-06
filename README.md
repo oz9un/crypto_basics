@@ -15,3 +15,7 @@ It was just a little challenge to myself.
 **"Converting hex to base64 format without importing anything."**
 
 
+## 3- Validation: Padding Validation
+
+It checks if padding is valid according to given blocksize and plaintext.
+I used this code as a prestep for AES encryption. 
