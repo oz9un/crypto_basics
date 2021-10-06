@@ -18,4 +18,5 @@ It was just a little challenge to myself.
 ## 3- Validation: Padding Validation
 
 It checks if padding is valid according to given blocksize and plaintext.
-I used this code as a prestep for AES encryption. 
+
+I used this code as a prestep for **AES encryption**. 
