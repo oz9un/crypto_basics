@@ -20,3 +20,10 @@ It was just a little challenge to myself.
 It checks if padding is valid according to given blocksize and plaintext.
 
 I used this code as a prestep for **AES encryption**. 
+
+
+## 4- Conversion: PKCS #7 Padding
+
+PKCS #7 defines Cryptographic Message Syntax.
+
+This function takes 'block length' as a parameter and applies padding on given plaintext according to block length. 
